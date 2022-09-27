@@ -1,3 +1,1 @@
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-2-six.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gd6qsnn4bzjg5tvqbksnl58q6)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=gd6qsnn4bzjg5tvqbksnl58q6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gd6qsnn4bzjg5tvqbksnl58q6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]]
