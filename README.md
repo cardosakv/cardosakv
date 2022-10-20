@@ -4,7 +4,6 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kvcards26&theme=onedark" alt="kvcards26" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kvcards26&count_private=true&show_icons=true&theme=codeSTACKr" /></p>
 
 <p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=gd6qsnn4bzjg5tvqbksnl58q6&count=1" /></p>
 
