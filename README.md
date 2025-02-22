@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cardosakv/cardosakv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cardosakv/cardosakv/refs/heads/main/github-user-contribution.svg" alt="Snake animation" />
 
 ###
