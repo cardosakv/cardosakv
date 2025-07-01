@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Khyle, a full stack developer from the Philippines</h2>
+<h2 align="center">Hi 👋! I'm Khyle, a software engineer from the Philippines</h2>
 
 ###
 
